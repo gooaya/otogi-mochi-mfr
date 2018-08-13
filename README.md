@@ -8,6 +8,8 @@ Tool for modding Otogi Secret Spirit Agents image assets. ~~Sponsored by Mikado 
 - Run the executable file. Then you will get the assets in the output folder.
 - Override the conent in <app-cache-path>/files/Bundle2 with the files in the output folder.
 
+Examples can be found in release.
+
 # Result
 ![loading](readme-imgs/loading.png)
 
